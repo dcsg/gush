@@ -3,7 +3,7 @@
 /app/config/sculpin_kernel_*.yml
 /app/config/sculpin_site_*.yml
 /app/logs/*
-/output_*/
+/output_dev/
 /source/components/
 s3.conf
 /sculpin.lock
